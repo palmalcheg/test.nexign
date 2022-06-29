@@ -27,5 +27,5 @@ public class Winner  {
 	private int age;
 	
 	@Getter
-    int amount;
+        private int amount;
 }
